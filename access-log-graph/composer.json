@@ -1,0 +1,14 @@
+{
+    "name": "zantolov/access-log-graph",
+    "require": {
+        "codegyre/robo": "^0.7.2",
+        "kassner/log-parser": "~1.0",
+        "monolog/monolog": "^1.20"
+    },
+    "authors": [
+        {
+            "name": "Zoran Antolovic",
+            "email": "zoran.antolovic@trikoder.net"
+        }
+    ]
+}
