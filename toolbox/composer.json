@@ -1,0 +1,12 @@
+{
+  "name": "zantolov/toolbox",
+  "require": {
+    "codegyre/robo": "^0.7.2"
+  },
+  "authors": [
+    {
+      "name": "Zoran Antolovic",
+      "email": "zoran.antolovic@trikoder.net"
+    }
+  ]
+}
